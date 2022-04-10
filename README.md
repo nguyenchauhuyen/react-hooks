@@ -13,6 +13,11 @@ yarn install
 yarn start
 ```
 
+## Test
+
+```bash
+yarn test
+```
 
 ## Register page 
 http://localhost:4000/register 
